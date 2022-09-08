@@ -1,7 +1,6 @@
-# AsyncRelayCommand
-## Usage
+# Usage
 ```csharp
-public class MainViewModel : BaseViewModel
+ public class MainViewModel : BaseViewModel
     {
         public AsyncRelayCommand AppearCommand { get; set; }
 
